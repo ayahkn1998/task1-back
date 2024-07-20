@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "fname": "yarob",
+        "lname": "kn",
+        "city": "damas",
+        "age": 32
+    },
+    {
+        "id": 3,
+        "fname": "laro",
+        "lname": "kn",
+        "city": "damas",
+        "age": 12
+    },
+    {
+        "id": 4,
+        "fname": "tota",
+        "lname": "kn",
+        "city": "damas",
+        "age": 14
+    },
+    {
+        "id": 5,
+        "fname": "nora",
+        "lname": "kn",
+        "city": "damas",
+        "age": 30
+    }
+]
